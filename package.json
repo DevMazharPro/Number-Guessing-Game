@@ -1,9 +1,10 @@
 {
-  "name": "number-guessing-game",
+  "name": "ts1-number-guessing-game",
   "type": "module",
   "version": "1.0.0",
   "description": "\"Guess Correct Number\"",
   "main": "index.js",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
